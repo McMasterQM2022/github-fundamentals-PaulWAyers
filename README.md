@@ -93,10 +93,9 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Complete the [First Day on GitHub](https://lab.github.com/githubtraining/first-day-on-github) course. Upload proof of completion (a screenshot showing that all course components were completed or any other method of certifying completion suffices) to this repository. 
-* Optional: [Let GitHub know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+* Complete the [First Day on GitHub](https://skills.github.com/#first-day-on-github) course. Upload proof of completion (a screenshot showing that all course components were completed or any other method of certifying completion suffices) to this repository. 
 
-> Completing the preceding steps suffices for an **S** for this assignment. To earn an **S+**, also complete the [intermediate GitHub course](https://lab.github.com/githubtraining/first-week-on-github). You do not have to complete section 5.
+> Completing the preceding steps suffices for an **S** for this assignment. To earn an **S+**, also complete the [intermediate GitHub course](https://skills.github.com/#first-week-on-github). You do not have to complete section 5.
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
